@@ -18,7 +18,7 @@
     color: #577057;
 }
 a{
-    color: #A3FFB6 ;
+    color: #577057 ;
 }
 a:hover{
     color: #6c757d ;
@@ -267,7 +267,7 @@ footer.container-fluid{
     margin: 0 auto;
 }
 .creditos a{
-    color: #48C9B0 ;
+    color: #A3FFB6 ;
 }
 .creditos a:hover{
     color: #007bff ;
